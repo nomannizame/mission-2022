@@ -1,0 +1,122 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.stay-focus-section{
+    display: flex;
+   margin-bottom: 8%;
+}
+#stay-focus-title{
+    border-left: 5px solid;
+    border-image: linear-gradient(tomato,orangered);
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+.stay-focus-div{
+    width:50%;
+    margin-left: 8%;
+}
+.stay-focus-div img{
+    width: 65%;
+}
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    
+}
+h2{
+    font-size: 40px;
+    font-weight:bolder ;
+}
+h3{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.orange{
+    color: #FFAD5A;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient( salmon,orangered );
+    color: white;
+    font-weight: 700;
+}
+.my-mission-title{
+    text-align: center;
+   
+}
+.mission-sec-container{
+    display: flex;
+    margin-left: 7%;
+    margin-bottom: 10%;
+}
+.mission-sec-div{
+    width: 23%;
+    border: 0px solid;
+    border-radius: 30px;
+    padding: 15px 35px;
+    margin: 15px;
+}
+.mission-sec-div img{
+    width: 50%;
+}
+#mission{
+    background-color: rgba(79, 157, 166, 0.1);
+}
+#vission{
+    background-color: rgba(255, 89, 89, 0.1);
+}
+#goal{
+    background-color: #FFF4D6;
+}
+#develop-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 3ex;
+    background-size: 20%;
+    
+}
+#develop-1{
+    width:40%;
+    margin-left: 8%;
+}
+#develop-1 img{
+    width: 85%;
+}
+#develop-2{
+    width:60%;
+    margin-right: 8%;
+}
+#global-com{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 60%;
+ 
+}
+.extra-section{
+    display: flex;
+    margin: 5% 8%;
+}
+.extra-div{
+    width: 50%;
+}
+.extra-div img{
+    width: 80%;
+}
+#footer-section{
+    background-color: black;
+}
+#footer-div{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer-h2{
+    color: white;
+}
+#red{
+    color: crimson;
+}
